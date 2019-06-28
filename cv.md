@@ -9,3 +9,4 @@ permalink: /cv/
 </div>
 <!--
 <embedsrc="../resources/Summer19_CV.pdf" width="750" height="375" type="application/pdf">
+-->
