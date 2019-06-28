@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Research
 permalink: /research/
 ---
@@ -8,8 +8,7 @@ permalink: /research/
 
 **Insight Into Inequality**\\
 _Committee_: 
-<button class="link" onclick="showAbstract('diss')">(abstract</button>)
-<div id="diss" style="display:none">
+
 <blockquote>
 This is an abstract. 
 </blockquote>
