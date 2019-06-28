@@ -1,8 +1,8 @@
 # Site settings
 title: Amanda Heideman
 email: heidem24@uwm.edu
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "http://ajheideman.github.io" # the base hostname & protocol for your site
+baseurl: " " # the subpath of your site, e.g. /blog
+#url: "http://ajheideman.github.io" # the base hostname & protocol for your site
 
 # Sidebar settings
 description: Amanda Heideman
