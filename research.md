@@ -6,8 +6,8 @@ permalink: /research/
 
 # Dissertation
 
-**Insight Into Inequality**\\
-_Committee_: 
+**Insight Into Inequality** \\
+_Committee_: Paru Shah (chair)
 
 <blockquote>
 abstract. 
