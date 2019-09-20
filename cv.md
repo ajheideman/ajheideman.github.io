@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 <div id="pdf">
-<object width="850" height="700" type="application/pdf" data="../resources/Heideman_cv_Fall19.pdf?#toolbar=0&navpanes=0" id="pdf-content">
+<object width="850" height="700" type="application/pdf" data="../resources/cv_fall19.pdf?#toolbar=0&navpanes=0" id="pdf-content">
 </object>
 </div>
 
