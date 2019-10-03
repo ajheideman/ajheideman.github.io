@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 <a href="https://ajheideman.github.io/ajheideman.github.io/resources/cv_fall19.pdf" target="_blank">View in a new window.</a>
-</blockquote>
+
 
 <div id="pdf">
 <object width="850" height="700" type="application/pdf" data="../resources/cv_fall19.pdf?#toolbar=0&navpanes=0" id="pdf-content">
