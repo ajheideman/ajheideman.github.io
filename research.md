@@ -15,6 +15,7 @@ The nature of the connection between what citizens want and what government does
 <blockquote>
 The first part of my dissertation project (presented at PolMeth, July 2019) explores questions related to the quality of representation in local politics. Much of the existing research in this area regards public opinion as a simple summary of the opinions of all citizens within the geographic unit of interest. This strategy assumes roughly equal weight among individuals, overlooking the possibility that opinion-policy links may be stronger for some groups than for others. As a result, policy may be more representative of the (different) preferences of certain groups. Departing from the conventional item-response model framework, I apply a group-level Bayesian IRT model to estimate public opinion of different subgroups defined by geographic and demographic characteristics. Using these estimates, I show that policy is responsive to citizen preferences, but some opinions appear to count more than others. These disparities are particularly salient among racial divisions.
  <a href="https://www.dropbox.com/home/PolMeth19?preview=Heideman_PolMeth19_Poster.pdf" target="_blank">Poster available here.</a>
+  <a href="https://ajheideman.github.io/ajheideman.github.io/resources/Heideman_PolMeth19_Poster.pdf" target="_blank">Poster available here.</a>
 </blockquote>
 
 
