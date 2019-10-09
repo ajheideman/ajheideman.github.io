@@ -3,11 +3,11 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<a href="https://ajheideman.github.io/ajheideman.github.io/resources/cv_fall19.pdf" target="_blank">View in a new window.</a>
+<a href="https://ajheideman.github.io/ajheideman.github.io/resources/Heideman_cv_oct19.pdf" target="_blank">View in a new window.</a>
 
 
 <div id="pdf">
-<object width="850" height="700" type="application/pdf" data="../resources/cv_fall19.pdf?#toolbar=0&navpanes=0" id="pdf-content">
+<object width="850" height="700" type="application/pdf" data="../resources/Heideman_cv_oct19.pdf?#toolbar=0&navpanes=0" id="pdf-content">
 </object>
 </div>
 
