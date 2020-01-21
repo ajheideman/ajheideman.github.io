@@ -13,7 +13,7 @@ American Politics _(2 sections, Fall 2019)_
 # Teaching Assistant
 
 **University of Wisconsin-Milwaukee** <br>
-Introduction to American Government _(4 discussion sections, Fall 2019)_ <br>
+Introduction to American Government _(4 discussion sections Fall 2019; 5 discussion sections Spring 2020)_ <br>
 Introduction to Political Science Research _(Spring 2019)_ <br>
 Introduction to Global Studies _(Spring 2018)_ <br>
 Ethnicity, Religion, and Race in American Politics _(Spring 2017)_ <br>
