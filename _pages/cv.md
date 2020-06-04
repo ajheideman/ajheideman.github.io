@@ -12,4 +12,3 @@ permalink: /cv/
 </div>
 
 <!--<embed src="../resources/Summer19_CV.pdf" width="750" height="375" type='application/pdf'>-->
-
