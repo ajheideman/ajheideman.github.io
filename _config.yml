@@ -114,14 +114,19 @@ tag_archive:
   type: liquid
   path: /tags/
   
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146417337-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-146417337-1"
+    anonymize_ip: false # default
+ # <!-- Global site tag (gtag.js) - Google Analytics -->
+#<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146417337-1"></script>
+#<script>
+ # window.dataLayer = window.dataLayer || [];
+  #function gtag(){dataLayer.push(arguments);}
+  #gtag('js', new Date());
 
-  gtag('config', 'UA-146417337-1');
-</script>
+  #gtag('config', 'UA-146417337-1');
+#</script>
 
 
