@@ -1,8 +1,8 @@
 ---
-layout: single
-author_profile: true
 title: Research
 permalink: /research/
+layout: single
+author_profile: true
 ---
 
 # Dissertation
