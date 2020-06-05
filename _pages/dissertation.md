@@ -1,0 +1,4 @@
+---
+title: "Dissertation"
+permalink: /dissertation/
+---
