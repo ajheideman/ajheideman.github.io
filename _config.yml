@@ -74,7 +74,7 @@ author:
   
 
 footer:
-  links:
+  links: false
    
 
 defaults:
