@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Amanda J. Heideman
+title: Amanda Heideman
 email: heidem24@uwm.edu
 description: >- # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Amanda J. Heideman, Ph.D"
+  name   : "Amanda J. Heideman"
   avatar : "/assets/images/ah_small.jpg"
-  bio    : "Postdoctoral Research Fellow"
+  bio    : "University of Wisconsin-Milwaukee"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
