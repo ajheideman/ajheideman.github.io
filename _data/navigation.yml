@@ -1,10 +1,8 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "Working Papers"
-    url: /working_papers/
+  - title: "Research"
+    url: /research/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
