@@ -10,10 +10,10 @@ _Committee_: Paru Shah (chair), Tom Holbrook, Joel Rast, Kathy Dolan
 <a href="https://ajheideman.github.io/ajheideman.github.io/dissertation/" target="_blank">(Abstract and Summary)</a>
 
 ## Publications
-<a href="https://ajheideman.github.io/ajheideman.github.io/Is It All About the Money How Campaigns Spur Participation in State Court Elections.pdf" target="_blank">**Is It All About The Money? How Campaigns Spur Participation in State Court Elections** </a> <br>
+<a href="https://ajheideman.github.io/ajheideman.github.io/resources/Is It All About the Money How Campaigns Spur Participation in State Court Elections.pdf" target="_blank">**Is It All About The Money? How Campaigns Spur Participation in State Court Elections** </a> <br>
 _Justice System Journal_ 40(3): 221-237
 <br>
-<a href="https://ajheideman.github.io/ajheideman.github.io/Race Place and Descriptive Representation What Shapes Trust Toward Local Government.pdf" target="_blank">**Race, Place, and Descriptive Representation: What Shapes Trust Toward Local Government?** </a> <br>
+<a href="https://ajheideman.github.io/ajheideman.github.io/resources/Race Place and Descriptive Representation What Shapes Trust Toward Local Government.pdf" target="_blank">**Race, Place, and Descriptive Representation: What Shapes Trust Toward Local Government?** </a> <br>
 Forthcoming at _Representation_
  
 ## Selected Work in Progress
