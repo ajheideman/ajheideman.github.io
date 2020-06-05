@@ -7,7 +7,7 @@ permalink: /research/
 
 **Unequal Representation in Local Democracies: An Analysis of Public Opinion and Policy Outcomes in U.S. Cities** <br>
 _Committee_: Paru Shah (chair), Tom Holbrook, Joel Rast, Kathy Dolan 
-<a href="https://ajheideman.github.io/ajheideman.github.io/_pages/dissertation.md" target="_blank">(Abstract and Summary)</a>
+<a href="https://ajheideman.github.io/ajheideman.github.io/ _pages/dissertation.md" target="_blank">(Abstract and Summary)</a>
 
 ## Publications
 <a href="https://ajheideman.github.io/ajheideman.github.io/Is It All About the Money How Campaigns Spur Participation in State Court Elections.pdf" target="_blank">**Is It All About The Money? How Campaigns Spur Participation in State Court Elections** </a> <br>
