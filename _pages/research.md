@@ -17,11 +17,11 @@ _Justice System Journal_ 40(3): 221-237
 Forthcoming at _Representation_
  
 ## Selected Work in Progress
-**The Promise of E-Gov? Neighborhood Inequality and Political Voice** \\
-with Amber Wichowsky, Paru Shah, and Branden DuPont. _Revise and Resubmit_.
-**Attitudes Towards Local Taxes** \\
-with Tom Holbrook. _Under Review_.
-**Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
-with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Data analysis_.
+**The Promise of E-Gov? Neighborhood Inequality and Political Voice** <br>
+with Amber Wichowsky, Paru Shah, and Branden DuPont. _Revise and Resubmit_.<br>
+**Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
+with Tom Holbrook. _Under Review_.<br>
+**Reliable Sources? Correcting Misinformation in Polarized Media Environments** <br>
+with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Data analysis_.<br>
   
 
