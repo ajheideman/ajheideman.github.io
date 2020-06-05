@@ -73,8 +73,8 @@ author:
       url: "https://github.com/ajheideman"
   
 
-footer: false
-  links: 
+footer: 
+  links: false
    
 
 defaults:
