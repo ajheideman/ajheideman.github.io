@@ -1,7 +1,11 @@
 ---
-
+layout: single
 title: Teaching
 permalink: /teaching/
+author_profile: true
+header:
+  overlay_image: /assets/images/skyline.jpg
+  overlay_filter: 0.5
 ---
 
 # Instructor
