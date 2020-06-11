@@ -12,7 +12,7 @@ I am a Postdoctoral Research Fellow in the Department of Criminal Justice and Cr
 Outside of academia, you'll usually find me at the barn hanging out with my horse, Roxy.
 
 <figure>
-  <img src="/assets/images/roxy_small1.jpg" alt="Roxy">
+  <img src="/assets/images/roxy_small1.jpg" width="108" height="144" alt="Roxy">
   <figcaption>This is Roxy looking majestic at sunset.</figcaption>
 </figure>
 
