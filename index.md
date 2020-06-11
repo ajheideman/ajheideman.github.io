@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title:
+title: Welcome!
 header:
   overlay_image: /assets/images/sky_crop1.jpg
   overlay_filter: 0.5
