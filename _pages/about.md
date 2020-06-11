@@ -14,7 +14,7 @@ Outside of academia, you'll usually find me at the barn hanging out with my hors
 
 
 <figure>
-  <img src="/assets/images/roxy_small1.jpg" width="108" height="144" alt="Roxy"\>
+  <img src="/assets/images/roxy_small1.jpg" width="108" height="144" alt="Roxy">
   <figcaption>This is Roxy looking majestic at sunset.</figcaption>
 </figure>
 
