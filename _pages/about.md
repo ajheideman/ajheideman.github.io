@@ -9,7 +9,7 @@ header:
 ---	
 I am a Postdoctoral Research Fellow in the Department of Criminal Justice and Criminology at the University of Wisconsin-Milwaukee. I recieved my PhD in political science from the University of Wisconsin-Milwaukee. 
 
-Outside of academia, you'll usually find me at the barn hanging out with my horse, Roxy.
+Outside of academia, you'll usually find me at the barn hanging out with my horse, Roxy (pictured below looking majestic at sunset).
 
 
 
