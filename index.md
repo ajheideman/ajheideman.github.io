@@ -1,5 +1,7 @@
 ---
 layout: single
+header:
+image: /assets/images/IMG_1834.jpg
 author_profile: true
 title: Welcome!
 ---	
