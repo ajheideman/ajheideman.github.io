@@ -1,7 +1,7 @@
 ---
+layout: single
 permalink: /about/
 title: "About Me"
-excerpt: "About me"
 author_profile: true
 header:
   overlay_image: /assets/images/sky_crop1.jpg
