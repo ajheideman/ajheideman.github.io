@@ -4,7 +4,7 @@ permalink: /about/
 title: "About Me"
 author_profile: true
 header:
-  overlay_image: /assets/images/sky_crop1.jpg
+  overlay_image: /assets/images/skyline.jpg
   overlay_filter: 0.5
 ---	
 I am a Postdoctoral Research Fellow in the Department of Criminal Justice and Criminology at the University of Wisconsin-Milwaukee. I recieved my PhD in political science from the University of Wisconsin-Milwaukee. 
