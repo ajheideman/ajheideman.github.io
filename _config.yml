@@ -63,8 +63,8 @@ author:
   bio    : "University of Wisconsin-Milwaukee"
   links:
     -label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "heidem24@uwm.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:heidem24@uwm.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ajheideman.github.io"
@@ -107,11 +107,12 @@ tag_archive:
   type: liquid
   path: /tags/
   
-  analytics:
-  provider: "google"
+# Analytics
+analytics:
+  provider               : google-gtag # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "UA-146417337-1"
-    anonymize_ip: false # default
+    tracking_id          : UA-146417337-1
+    anonymize_ip         : false # false (default)
  # <!-- Global site tag (gtag.js) - Google Analytics -->
 #<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146417337-1"></script>
 #<script>
