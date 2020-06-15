@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+analytics: true
 title: Welcome!
 header:
   overlay_image: /assets/images/skyline.jpg
