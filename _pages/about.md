@@ -9,6 +9,10 @@ header:
 ---	
 I am a Postdoctoral Research Fellow in the Department of Criminal Justice and Criminology at the <a href="https://uwm.edu/socialwelfare/">Helen Bader School of Social Welfare at the University of Wisconsin-Milwaukee.</a> I recieved my PhD in political science from the <a href="https://uwm.edu/political-science/">University of Wisconsin-Milwaukee.</a> 
 
+
+I am also a member of the UW-Milwaukee Experimental Politics Lab. Our research employs experimental methods to address questions about political attitudes, beliefs, and behavior. Our members have diverse substantive interests across several fields in political science. You can check us out <a href="https://experimentalpolitics.github.io">here.</a>
+
+
 Born and raised in South Bend, Indiana, I earned a BA in political science from Indiana University South Bend. 
 
 <!---Outside of academia, you'll usually find me at the barn hanging out with my horse, Roxy (pictured below looking majestic at sunset). <img src="/assets/images/roxy_small1.jpg" width="108" height="144" alt="Roxy" /> --->
