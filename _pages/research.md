@@ -5,13 +5,14 @@ permalink: /research/
 author_profile: true
 header:
   overlay_image: /assets/images/skyline.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.4
 ---
 
 ## Dissertation
 
 **Unequal Representation in Local Democracies: An Analysis of Public Opinion and Policy Outcomes in U.S. Cities** <br>
-_Committee_: Paru Shah (chair), Tom Holbrook, Joel Rast, Kathy Dolan 
+_Committee_: Paru Shah (chair), Tom Holbrook, Joel Rast, Kathy Dolan <br>
+<a href="https://ajheideman.github.io/ajheideman.github.io/resources/Heideman_PolMeth19_Poster.pdf" target="_blank">Poster </a> presented at the 2019 annual meeting of the Society for Political Methodology. <br>
 
 
 ## Publications
