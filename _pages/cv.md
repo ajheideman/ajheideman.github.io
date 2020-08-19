@@ -1,13 +1,19 @@
 ---
 
+layout: single
 title: CV
 permalink: /cv/
+author_profile: true
+header:
+  overlay_image: /assets/images/skyline.jpg
+  overlay_filter: 0.4
 ---
-<a href="https://ajheideman.github.io/ajheideman.github.io/resources/CV_Jan20.pdf" target="_blank">View in a new window.</a>
+
+<a href="https://ajheideman.github.io/ajheideman.github.io/CV_AUG2020.pdf" target="_blank">View in a new window.</a>
 
 
 <div id="pdf">
-<object width="850" height="700" type="application/pdf" data="../resources/CV_Jan20.pdf?#toolbar=0&navpanes=0" id="pdf-content">
+<object width="850" height="700" type="application/pdf" data="../CV_AUG2020.pdf?#toolbar=0&navpanes=0" id="pdf-content">
 </object>
 </div>
 
