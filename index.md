@@ -12,6 +12,5 @@ I am a Postdoctoral Research Fellow in the Department of Criminal Justice and Cr
 To date, much of my research has focused on questions related to political representation, political attitudes, and political behavior in the U.S. context. I have a particular interest in studying these questions at the local level. 
 
 My methodological interests include program evaluation and the use (and misuse) of data for program development and policymaking. 
-
 I am also a member of the UW-Milwaukee Experimental Politics Lab. Our research employs experimental methods to address questions about political attitudes, beliefs, and behavior. Our members have diverse substantive interests across several fields in political science. You can check us out <a href="https://experimentalpolitics.github.io">here.</a>
 
