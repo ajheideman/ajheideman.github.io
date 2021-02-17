@@ -23,11 +23,13 @@ _Justice System Journal_ 40(3): 221-237
 Forthcoming at _Representation_
  
 ## Selected Work in Progress
-**The Promise of E-Gov? Neighborhood Inequality and Political Voice** <br>
-with Amber Wichowsky, Paru Shah, and Branden DuPont. _Revise and Resubmit_.<br>
+**Call and Response? Neighborhood Inequality and Political Voice** <br>
+with Amber Wichowsky and Paru Shah. _Revise and Resubmit_.<br>
 **Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
-with Tom Holbrook. _Under Review_.<br>
+with Tom Holbrook. _Revise and Resubmit_.<br>
+**An Examination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction** <br> 
+with Tina Freiburger and Danielle Romain. _Revise and Resubmit_.<br>
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** <br>
-with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Data analysis_.<br>
+with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Under Review_.<br>
   
 
