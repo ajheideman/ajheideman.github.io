@@ -18,7 +18,7 @@ _Committee_: Paru Shah (chair), Tom Holbrook, Joel Rast, Kathy Dolan <br>
 
 ## Publications
 <!-- <a href="https://ajheideman.github.io/ajheideman.github.io/resources/Is It All About the Money How Campaigns Spur Participation in State Court Elections.pdf" target="_blank">**Is It All About The Money? How Campaigns Spur Participation in State Court Elections** </a> -->
-[Is It All About The Money? How Campaigns Spur Participation in State Court Elections](https://ajheideman.github.io/resources/Is_It_All_About_the_Money_How_Campaigns_Spur_Participation_in_State_Court_Elections.pdf)
+[Is It All About The Money? How Campaigns Spur Participation in State Court Elections](https://ajheideman.github.io/Is_It_All_About_the_Money.pdf)
 <br>
 _Justice System Journal_ 40(3): 221-237
 <br>
