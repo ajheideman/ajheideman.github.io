@@ -21,13 +21,16 @@ _Committee_: Paru Shah (chair), Tom Holbrook, Joel Rast, Kathy Dolan <br>
 [Is It All About The Money? How Campaigns Spur Participation in State Court Elections](https://ajheideman.github.io/Is_It_All_About_the_Money.pdf)
 <br>
 _Justice System Journal_ 40(3): 221-237
+
+
+[Race, Place, and Descriptive Representation: What Shapes Trust Toward Local Government?](https://ajheideman.github.io/Race_Place_Representation.pdf)
 <br>
-<a href="https://ajheideman.github.io/ajheideman.github.io/resources/Race Place and Descriptive Representation What Shapes Trust Toward Local Government.pdf" target="_blank">**Race, Place, and Descriptive Representation: What Shapes Trust Toward Local Government?** </a> <br>
-Forthcoming at _Representation_
- 
+_Representation_ 56(2): 195-213
+
+Call and Response? Neighborhood Inequality and Political Voice <br>
+Forthcoming at _Urban Affairs Review_
+
 ## Selected Work in Progress
-**Call and Response? Neighborhood Inequality and Political Voice** <br>
-with Amber Wichowsky and Paru Shah. _Revise and Resubmit_.<br>
 **Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
 with Tom Holbrook. _Revise and Resubmit_.<br>
 **An Examination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction** <br> 
