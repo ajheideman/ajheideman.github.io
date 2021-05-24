@@ -28,13 +28,14 @@ _Justice System Journal_ 40(3): 221-237
 _Representation_ 56(2): 195-213
 
 Call and Response? Neighborhood Inequality and Political Voice <br>
-Forthcoming at _Urban Affairs Review_
+With Paru Shah and Amber Wichowsky. Forthcoming at _Urban Affairs Review_ 
+
+An Exmaination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction <br>
+With Tina Freiburger and Danielle Romain-Dagenhardt. Forthcoming at _Journal of Crime and Justice_
 
 ## Selected Work in Progress
 **Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
 with Tom Holbrook. _Revise and Resubmit_.<br>
-**An Examination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction** <br> 
-with Tina Freiburger and Danielle Romain. _Revise and Resubmit_.<br>
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** <br>
 with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Under Review_.<br>
   
