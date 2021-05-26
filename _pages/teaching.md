@@ -11,8 +11,9 @@ header:
 # Instructor
 
 **University of Wisconsin-Stout** <br>
-American Politics _(2 sections, Fall 2019)_
-<a href="https://ajheideman.github.io/ajheideman.github.io/resources/online_syllabus_Fall19.pdf" target="_blank">Syllabus</a>
+American Politics _(2 sections, Fall 2019)_ <br>
+[Syllabus](https://ajheideman.github.io/online_syllabus_Fall19.pdf) 
+<!-- <a href="https://ajheideman.github.io/ajheideman.github.io/resources/online_syllabus_Fall19.pdf" target="_blank">Syllabus</a> -->
 
 # Teaching Assistant
 
