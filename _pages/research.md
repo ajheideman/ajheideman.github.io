@@ -30,7 +30,7 @@ _Representation_ 56(2): 195-213
 [Call and Response? Neighborhood Inequality and Political Voice](https://ajheideman.github.io/CallandResponse.pdf) <br>
 With Paru Shah and Amber Wichowsky. Forthcoming at _Urban Affairs Review_ 
 
-[An Exmaination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction](https://ajheideman.github.io/chargereduction.pdf) <br>
+[An Examination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction](https://ajheideman.github.io/chargereduction.pdf) <br>
 With Tina Freiburger and Danielle Romain-Dagenhardt. Forthcoming at _Journal of Crime and Justice_
 
 ## Selected Work in Progress
