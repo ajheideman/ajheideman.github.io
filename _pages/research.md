@@ -27,16 +27,18 @@ _Justice System Journal_ 40(3): 221-237
 <br>
 _Representation_ 56(2): 195-213
 
-Call and Response? Neighborhood Inequality and Political Voice <br>
+[Call and Response? Neighborhood Inequality and Political Voice](https://ajheideman.github.io/CallandResponse.pdf) <br>
 With Paru Shah and Amber Wichowsky. Forthcoming at _Urban Affairs Review_ 
 
-An Exmaination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction <br>
+[An Exmaination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction](https://ajheideman.github.io/chargereduction.pdf) <br>
 With Tina Freiburger and Danielle Romain-Dagenhardt. Forthcoming at _Journal of Crime and Justice_
 
 ## Selected Work in Progress
 **Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
 with Tom Holbrook. _Revise and Resubmit_.<br>
+**Racial Disparities in Access to and Movement Through Drug Treatment Court** <br> 
+with Alyssa Sheeran. _Revise and Resubmit_. <br>
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** <br>
-with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Under Review_.<br>
+with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Revise and Resubmit_.<br>
   
 
