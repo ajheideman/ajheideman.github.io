@@ -33,11 +33,12 @@ With Paru Shah and Amber Wichowsky. Forthcoming at _Urban Affairs Review_
 [An Examination of the Direct and Interactive Effects of Race, Ethnicity, and Gender on Charge Reduction](https://ajheideman.github.io/chargereduction.pdf) <br>
 With Tina Freiburger and Danielle Romain-Dagenhardt. Forthcoming at _Journal of Crime and Justice_
 
+[The Effects of Race and Ethnicity on Admission, Graduation, and Recidivism in the Milwaukee County Drug Treatment Court](https://ajheideman.github.io/Sheeran-Heideman-MCADTC.pdf) <br> 
+With Alyssa Sheeran 
+
 ## Selected Work in Progress
 **Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
 with Tom Holbrook. _Revise and Resubmit_.<br>
-**Racial Disparities in Access to and Movement Through Drug Treatment Court** <br> 
-with Alyssa Sheeran. _Revise and Resubmit_. <br>
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** <br>
 with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Revise and Resubmit_.<br>
   
