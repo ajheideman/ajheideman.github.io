@@ -8,12 +8,12 @@ header:
   overlay_image: /assets/images/skyline.jpg
   overlay_filter: 0.4
 ---
-[View in a new window.](https://ajheideman.github.io/CV_May21.pdf)
+[View in a new window.](https://ajheideman.github.io/CV_Aug21.pdf)
 <!--<a href="https://github.com/ajheideman/ajheideman.github.io/Heideman_CV_April2021.pdf" onclick="window.open('https://github.com/ajheideman/ajheideman.github.io/Heideman_CV_April2021.pdf', '_self');"> View in a new window.</a>-->
 
 
 <div id="pdf">
-<object width="850" height="700" type="application/pdf" data="../CV_May21.pdf?#toolbar=0&navpanes=0" id="pdf-content">
+<object width="850" height="700" type="application/pdf" data="../CV_Aug21.pdf?#toolbar=0&navpanes=0" id="pdf-content">
 </object>
 </div>
 
