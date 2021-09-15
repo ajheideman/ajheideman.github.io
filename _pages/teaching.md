@@ -10,6 +10,10 @@ header:
 
 # Instructor
 
+**University of Wisconsin-Milwaukee** <br>
+State and Local Politics _(Fall 2021)_ <br>
+[Syllabus](https://ajheideman.github.io/PS105F21Syllabus.pdf) <br>
+
 **University of Wisconsin-Stout** <br>
 American Politics _(2 sections, Fall 2019)_ <br>
 [Syllabus](https://ajheideman.github.io/online_syllabus_Fall19.pdf) 
