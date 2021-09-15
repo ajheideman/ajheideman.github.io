@@ -36,10 +36,15 @@ With Tina Freiburger and Danielle Romain-Dagenhardt. Forthcoming at _Journal of 
 [The Effects of Race and Ethnicity on Admission, Graduation, and Recidivism in the Milwaukee County Drug Treatment Court](https://ajheideman.github.io/Sheeran-Heideman-MCADTC.pdf) <br> 
 With Alyssa Sheeran 
 
+[An Evaluation of a De-Escalation Conflict Management Training in a Behavioral Health Hospital Setting](https://www.emerald.com/insight/content/doi/10.1108/IJCMA-03-2021-0039/full/html) <br>
+With Tina Freiburger, Victoria Knoche, and Danielle Romain-Dagenhardt. <br>
+
+[Reliable Sources? Correcting Misinformation in Polarized Media Environments](https://journals.sagepub.com/doi/abs/10.1177/1532673X211041570) <br>
+With Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. <br>
+
 ## Selected Work in Progress
 **Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
 with Tom Holbrook. _Revise and Resubmit_.<br>
-**Reliable Sources? Correcting Misinformation in Polarized Media Environments** <br>
-with Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. _Revise and Resubmit_.<br>
+
   
 
