@@ -13,7 +13,7 @@ header:
 
 
 <div id="pdf">
-<object width="850" height="700" type="application/pdf" data="../CV_Aug21.pdf?#toolbar=0&navpanes=0" id="pdf-content">
+<object width="850" height="700" type="application/pdf" data="../CV_NoRefs.pdf?#toolbar=0&navpanes=0" id="pdf-content">
 </object>
 </div>
 
