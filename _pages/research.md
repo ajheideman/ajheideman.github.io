@@ -7,6 +7,12 @@ header:
   overlay_image: /assets/images/skyline.jpg
   overlay_filter: 0.4
 ---
+## Overview
+My research tends to focus on: (1) racial/ethnic, gender, and class disparities in both the political and criminal justice systems and (2) public opinion and political attitudes. More specifically, I explore questions such as: How do political institutions shape citizens' trust, participation, and engagement? How responsive are local governments to the diverse needs and voices of their constituents? How do individuals form political attitudes and make decisions, particularly in contexts characterized by misinformation or limited information? Are policies and programs achieving their intended outcomes, and what changes are needed to foster more equitable and effective governance? 
+
+I am also committed to research that focuses on applied questions with both theoretical and practical implications. After completing my Ph.D, I was a Postdoctoral Research Associate in the Department of Criminal Justice and Criminology at the [Helen Bader School of Social Welfare at the University of Wisconsin-Milwaukee.](https://uwm.edu/socialwelfare)
+In this position, I worked on a number of projects that examined issues at the intersection of the criminal system with substance abuse and behavioral health. Our work was often conducted in partnership with organizations in the community and informed program development and change in Milwaukee and surrounding counties. These experiences reinforce my broader research interest in understanding how policies function in practice and how institutions can be more responsive to the needs of diverse communities.
+
 
 ## Dissertation
 
@@ -16,7 +22,7 @@ _Committee_: Paru Shah (chair), Tom Holbrook, Joel Rast, Kathy Dolan <br>
 <!--<a href="https://ajheideman.github.io/ajheideman.github.io/resources/Heideman_PolMeth19_Poster.pdf" target="_blank">Poster </a> presented at the 2019 annual meeting of the Society for Political Methodology. <br> -->
 
 
-## Publications
+## Selected Publications
 <!-- <a href="https://ajheideman.github.io/ajheideman.github.io/resources/Is It All About the Money How Campaigns Spur Participation in State Court Elections.pdf" target="_blank">**Is It All About The Money? How Campaigns Spur Participation in State Court Elections** </a> -->
 [Is It All About The Money? How Campaigns Spur Participation in State Court Elections](https://ajheideman.github.io/Is_It_All_About_the_Money.pdf)
 <br>
@@ -42,9 +48,6 @@ With Tina Freiburger, Victoria Knoche, and Danielle Romain-Dagenhardt. <br>
 [Reliable Sources? Correcting Misinformation in Polarized Media Environments](https://journals.sagepub.com/doi/abs/10.1177/1532673X211041570) <br>
 With Nicholas R. Davis, Taraleigh Davis, Patrick Kraft, Jason T. Neumeyer, and Shin Young Park. <br>
 
-## Selected Work in Progress
-**Contextual and Individual-Level Determinants of Attitudes Toward Local Taxes** <br>
-with Tom Holbrook. _Revise and Resubmit_.<br>
 
   
 
