@@ -9,7 +9,7 @@ header:
 ---
 My background in both academic and applied research informs my teaching in multiple ways.
 
-My research on political behavior, public policy, and the criminal justice system shapes the courses I teach, allowing me to incorporate real-world case studies, policy evaluations, and contemporary debates into the classroom. 
+My research on political behavior, public policy, and the criminal justice system shapes the courses I teach, allowing me to incorporate real-world case studies and contemporary debates into the classroom. 
 
 Additionally, my applied research experience—working with nonprofit organizations, government agencies, and community groups—reinforces my commitment to equipping students with the skills they need to succeed in public service, nonprofit work, and research-oriented careers. Whether through hands-on data analysis projects, policy memos, or discussions about ethical decision-making in research and policymaking, I strive to ensure that students develop the practical skills they need in order to be responsible producers and consumers of information. 
 
