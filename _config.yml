@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Amanda Heideman, Ph.D
-email: amandaheideman@civicpulse.org
+email: ajheidem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   #
   
@@ -59,11 +59,11 @@ plugins:
 author:
   name   : "Amanda J. Heideman, Ph.D"
   avatar : "/assets/images/AH_small_new.jpg"
-  bio    : "CivicPulse"
+  bio    : " "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:amandaheideman@civicpulse.org"
+      url: "mailto:ajheidem@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ajheideman.github.io"
