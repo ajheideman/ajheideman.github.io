@@ -8,10 +8,21 @@ header:
   overlay_filter: 0.4
 ---
 ## Overview
-My research tends to focus on: (1) racial/ethnic, gender, and class disparities in both the political and criminal justice systems and (2) public opinion and political attitudes. More specifically, I explore questions such as: How do political institutions shape citizens' trust, participation, and engagement? How responsive are local governments to the diverse needs and voices of their constituents? How do individuals form political attitudes and make decisions, particularly in contexts characterized by misinformation or limited information? Are policies and programs achieving their intended outcomes, and what changes are needed to foster more equitable and effective governance? 
+My research centers on local politics and public policy, with a particular emphasis on the politics of service delivery: how institutions, representation, and information environments shape whether local governments deliver services effectively, equitably, and responsively to the people who need them. More specifically, I explore questions such as: How responsive are local governments to the diverse needs and voices of their constituents? How do citizens' beliefs about government service and performance form, and how are those beliefs disrupted by misinformation or limited information? Are policies and programs achieving their intended outcomes, and what changes are needed to foster more equitable and effective governance? 
 
-Building on these broad interests, I am also committed to research that engages with applied questions and has both theoretical and practical implications. After completing my Ph.D, I was a Postdoctoral Research Associate in the Department of Criminal Justice and Criminology at the [Helen Bader School of Social Welfare at the University of Wisconsin-Milwaukee.](https://uwm.edu/socialwelfare)
-In this position, I worked on a number of projects that examined issues at the intersection of the criminal system with substance abuse and behavioral health. Our work was often conducted in partnership with organizations in the community and informed program development and change in Milwaukee and surrounding counties. 
+To answer these questions, I draw on diverse methodological approaches and data sources, including public opinion surveys, pre-registered survey experiments, large administrative datasets, original geospatial and image-based data, and qualitative interviews and participant observation with the practitioners and agencies that deliver services on the ground. My goal is research that speaks to both academic and applied audiences, advancing our theoretical understanding of local governance while producing findings that community organizations, policymakers, and city agencies can put to use. 
+
+## Current Projects
+**Building Local Housing Policy Infrastructure: A Scalable Method for Measuring Housing Repair Needs Using Multi-Source Imagery and Deep Learning** <br>
+_With Todd Swanstrom; Funded by the National Geospatial-Intelligence Agency (NGA)_ <br>
+This project develops a scalable pipeline using Street View and satellite imagery to map housing conditions in St. Louis. By combining geospatial data collection with a deep-learning classification model, the project aims to give local governments granular, low-cost data to target housing repair and reinvestment more equitably.
+
+**Civilian Oversight Independence Index (COII)** <br>
+_With Stephen Bagwell; Funding support from the University of Missouri - St. Louis_ <br>
+A large-scale data collection project to facilitate a systematic comparative study of how civilian oversight of police is designed and structured across the United States. 
+
+**Perceptions of Police Response & the Conditional Logic of Calling 911** <br>
+Using original survey data from Rochester, NY (n = 219), this project examines when and why residents choose to call 911. Findings show that perceived police effectiveness is associated with willingness to call for discretionary situations but not emergencies, and that prior callers are more likely to call again — evidence that suggests behavioral path-dependence in how residents engage with public safety services. A follow-up survey experiment designed to test the causal mechanisms behind this pattern is currently in development.
 
 
 ## Dissertation
